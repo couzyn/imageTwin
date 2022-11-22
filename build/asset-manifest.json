@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac7f9b0a.css",
+    "main.js": "/static/js/main.a2fbdcaa.js",
+    "static/media/Syne-SemiBold.woff": "/static/media/Syne-SemiBold.768913377c5c67a64008.woff",
+    "static/media/Syne-Bold.woff": "/static/media/Syne-Bold.1f7c3fb3116fc23346cb.woff",
+    "static/media/Syne-Medium.woff": "/static/media/Syne-Medium.72d58045dbd70e7e0108.woff",
+    "static/media/Syne-ExtraBold.woff": "/static/media/Syne-ExtraBold.a530a47645ddbd61bd2c.woff",
+    "static/media/Syne-Regular.woff": "/static/media/Syne-Regular.ef11494b31c9fd35cc02.woff",
+    "static/media/Syne-SemiBold.woff2": "/static/media/Syne-SemiBold.bf277d18d8ccf48157d5.woff2",
+    "static/media/Syne-Medium.woff2": "/static/media/Syne-Medium.1b1dcd87d8f6c8ae6733.woff2",
+    "static/media/Syne-Bold.woff2": "/static/media/Syne-Bold.bffcb07e871367356871.woff2",
+    "static/media/Syne-ExtraBold.woff2": "/static/media/Syne-ExtraBold.745c9299257495dcdfc9.woff2",
+    "static/media/Syne-Regular.woff2": "/static/media/Syne-Regular.bfeb2bc209e60d753aa1.woff2",
+    "index.html": "/index.html",
+    "static/media/delete.svg": "/static/media/delete.20e89951473d1965d12a735b599a2706.svg",
+    "static/media/upload.svg": "/static/media/upload.afa9a79396ca7c7cdb944fedc51d5632.svg",
+    "main.ac7f9b0a.css.map": "/static/css/main.ac7f9b0a.css.map",
+    "main.a2fbdcaa.js.map": "/static/js/main.a2fbdcaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac7f9b0a.css",
+    "static/js/main.a2fbdcaa.js"
+  ]
+}
